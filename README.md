@@ -1,6 +1,5 @@
 
 
-
 <div>
     <div align=center>
         <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="GitHub Octocat Drinking a Cup of Coffee" height="150">
