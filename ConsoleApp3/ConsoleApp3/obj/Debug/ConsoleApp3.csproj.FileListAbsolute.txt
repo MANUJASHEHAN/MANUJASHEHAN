@@ -1,0 +1,7 @@
+D:\Education\ESOFT Metro Campus\HND In Software Engineering\Programming\C#\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\Education\ESOFT Metro Campus\HND In Software Engineering\Programming\C#\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Education\ESOFT Metro Campus\HND In Software Engineering\Programming\C#\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\Education\ESOFT Metro Campus\HND In Software Engineering\Programming\C#\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\Education\ESOFT Metro Campus\HND In Software Engineering\Programming\C#\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\Education\ESOFT Metro Campus\HND In Software Engineering\Programming\C#\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\Education\ESOFT Metro Campus\HND In Software Engineering\Programming\C#\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
