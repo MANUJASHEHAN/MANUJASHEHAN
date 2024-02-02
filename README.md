@@ -14,6 +14,10 @@
  
 <h3 align="center">A passionate Software Engineering undergraduate student 🎓</h3
 
+
+
+
+
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -22,6 +26,12 @@
 
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="200%">
+
+
+- 🌱 I’m currently pursuing my **Pearson BTEC Level 5 HND in Computing - Software Engineering**
+
+- 📫 How to reach me **manuja4444@gmail.com** 
+
 ---
 
 | ![Manuja's github stats](https://github-readme-stats.vercel.app/api?username=manujashehan&show_icons=true&theme=tokyonight) | ![Manuja GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manujashehan&theme=tokyonight) |
@@ -37,9 +47,7 @@
  ---
 
  
-- 🌱 I’m currently learning **Pearson BTEC Level 5 HND in Computing - Software Engineering**
 
-- 📫 How to reach me **manuja4444@gmail.com** 
 ---
 <h3 align="center">Connect with me:</h3>
 
